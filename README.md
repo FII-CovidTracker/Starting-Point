@@ -3,11 +3,12 @@
 # Covid Tracker project
 
 ### Team:
-- Cercel Irina-Elena
-- Cioată Matei-Alexandru
-- Lipan Radu-Matei
-- Pătrașcu Deny-Constantin
-- Rezmeriță Mihnea-Ioan
+- Cercel Irina-Elena (iOS) - irina.cercel1998@gmail.com
+- Cioată Matei-Alexandru (Scrum master + Back-end) - matei.alex9819@gmail.com
+- Lipan Radu-Matei (Android) - lipanmatei@gmail.com
+- Pătrașcu Deny-Constantin (Front-end) - denypatrascu@gmail.com
+- Rezmeriță Mihnea-Ioan (Back-end) - mihnea.superbaiat@gmail.com
+Depending on the work load, we might change roles.
 
 ### Scientific coordinator:
 - Iftene Adrian
