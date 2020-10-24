@@ -19,3 +19,6 @@ Depending on the work load, we might change roles.
 
 ### State of the Art:
 - [FII-CovidTracker](https://docs.google.com/document/d/1yv8h1RN9h3U2z2uCkVJgzz1rFwZ7hyYrq6BbJijFO34/edit?usp=sharing)
+
+### Requirements Analysis:
+- [FII-CovidTracker](https://docs.google.com/document/d/14a_6SEpYPUca4KbOAivDZRBCx4NTWKuDQEm-pasu41Y/edit?usp=sharing)
