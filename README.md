@@ -22,3 +22,6 @@ Depending on the work load, we might change roles.
 
 ### Requirements Analysis:
 - [FII-CovidTracker](https://docs.google.com/document/d/14a_6SEpYPUca4KbOAivDZRBCx4NTWKuDQEm-pasu41Y/edit?usp=sharing)
+
+### Diagrams
+- [FII-CovidTracker](https://drive.google.com/drive/folders/1fLNpK4BkJXpCI0l1Fbhqt0Pg0DdSodTm?usp=sharing)
