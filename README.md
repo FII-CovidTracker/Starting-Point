@@ -6,11 +6,11 @@
 
 | | Name | Zone | Email |
 |:-:|:--|:--|:--|
-| <a href="https://github.com/Irina-Elena"><img src="https://avatars3.githubusercontent.com/u/48416541" height="30" /></a> | Cercel Irina-Elena | iOS | irina.cercel1998@gmail.com |
+| <a href="https://github.com/Irina-Elena"><img src="https://avatars3.githubusercontent.com/u/48416541" height="30" /></a> | ~~Cercel Irina-Elena~~ | ~~iOS~~ | ~~irina.cercel1998@gmail.com~~ |
 | <a href="https://github.com/Flendor"><img src="https://avatars1.githubusercontent.com/u/39808032" height="30" /></a> | Cioată Matei-Alexandru | Scrum master + Back-end | matei.alex9819@gmail.com |
 | <a href="https://github.com/Matei-L"><img src="https://avatars2.githubusercontent.com/u/44035465" height="30" /></a> | Lipan Radu-Matei | Android | lipanmatei@gmail.com |
-| <a href="https://github.com/denypatrascu"><img src="https://avatars1.githubusercontent.com/u/18448426" height="30" /></a> | Pătrașcu Deny-Constantin | Front-end | denypatrascu@gmail.com |
-| <a href="https://github.com/Kropius"><img src="https://avatars2.githubusercontent.com/u/47635229" height="30" /></a> | Rezmeriță Mihnea-Ioan | Back-end | mihnea.superbaiat@gmail.com |
+| <a href="https://github.com/denypatrascu"><img src="https://avatars1.githubusercontent.com/u/18448426" height="30" /></a> | ~~Pătrașcu Deny-Constantin~~ | ~~Front-end + Auth-Service~~ | ~~denypatrascu@gmail.com~~ |
+| <a href="https://github.com/Kropius"><img src="https://avatars2.githubusercontent.com/u/47635229" height="30" /></a> | Rezmeriță Mihnea-Ioan | Back-end + Front-end | mihnea.superbaiat@gmail.com |
 
 Depending on the work load, we might change roles.
 
