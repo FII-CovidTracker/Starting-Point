@@ -17,6 +17,9 @@ Depending on the work load, we might change roles.
 ### Scientific coordinator:
 - Iftene Adrian
 
+### Final documentation:
+https://docs.google.com/document/d/15O0F7wXTfFBbdgowl47wyDupvUE_kpZ9iYAJh_TiRpA/edit?usp=sharing
+
 ### Trello: 
 - [main board](https://trello.com/b/0fDoLlS1/covidtracker)
 
